@@ -1,0 +1,1 @@
+This work is based on "Juice WRLD - Fortnite Skin" (https://sketchfab.com/3d-models/juice-wrld-fortnite-skin-6b5cbc418d484b6fb6f25462975e871c) by GatoBugadoBR (https://sketchfab.com/GatoBugadoBR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

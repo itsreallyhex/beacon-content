@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "shows": [
+    {
+      "id": "juice",
+      "asset": "juice",
+      "height": 37,
+      "fade": 0.5,
+      "cues": [
+        { "at": 0, "ground": true },
+        { "at": 191.6, "ground": false }
+      ]
+    }
+  ]
+}

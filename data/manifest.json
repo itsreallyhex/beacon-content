@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "juice",
+      "bundle": "juice.bundle",
+      "sha256": "23175cbec409d739fad54e69cf220805a1820fcf26db2a6e5248fbe801be9ae7",
+      "prefab": "juice",
+      "platform": "windows",
+      "solid": false,
+      "lifetime": 200,
+      "maxSize": 10,
+      "maxObjects": 1000
+    }
+  ]
+}
