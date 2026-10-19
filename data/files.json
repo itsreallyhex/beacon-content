@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "files": [
+    { "path": "Fonts/NotoSansArabic-Regular.ttf", "size": 142140, "sha256": "bd86ca02f087d7f3c3788ba458fb6b73744c7639ed276b8d870dba6def6c40d0" },
+    { "path": "Fonts/OFL.txt", "size": 4382, "sha256": "a7a5a25eb188bf1cd96982030d53e23c33485c69b1044a562254226857ee13af" }
+  ]
+}
