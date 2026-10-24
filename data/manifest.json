@@ -11,6 +11,17 @@
       "lifetime": 200,
       "maxSize": 10,
       "maxObjects": 1000
+    },
+    {
+      "id": "eminem",
+      "bundle": "eminem.bundle",
+      "sha256": "2d219ecc7ea322de68167e02681c680544d082e0959f950aa92d874ebf1f968f",
+      "prefab": "eminem",
+      "platform": "windows",
+      "solid": false,
+      "lifetime": 200,
+      "maxSize": 15,
+      "maxObjects": 1100
     }
   ]
 }

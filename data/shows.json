@@ -10,6 +10,21 @@
         { "at": 0, "ground": true },
         { "at": 191.6, "ground": false }
       ]
+    },
+    {
+      "id": "eminem",
+      "asset": "eminem",
+      "scale": 21.1,
+      "fade": 1.5,
+      "cues": [
+        { "at": 0, "ground": true },
+        { "at": 160.6, "ground": false }
+      ],
+      "parts": [
+        { "name": "slim", "cues": [ { "at": 0, "show": true, "fade": 0 }, { "at": 54.0, "show": false, "fade": 0 } ] },
+        { "name": "reloaded", "cues": [ { "at": 54.0, "show": true, "fade": 0 } ] },
+        { "name": "mecha", "cues": [ { "at": 53.55, "show": true, "fade": 0.5 } ] }
+      ]
     }
   ]
 }
